@@ -10,7 +10,7 @@ export const Main = () => {
             </div>
             <section class="about-me-content flex flex-row justify-center items-center min-h-full p-20">
                 <div class="my-image justify-center">
-                    <img class="rounded-full w-80" src="images/profilePicCopySize.jpg" alt="A picture of me" />
+                    <img class="rounded-full w-80" src="images/DSC_0678(1).JPG" alt="A picture of me" />
                 </div>
                 <div class="description max-w-2xl ml-20 leading-8">
                     <p>So, here's me; an outgoing, eager - and at times, quietly observant guy. Since around the age of 14
