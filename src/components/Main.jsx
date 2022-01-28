@@ -35,7 +35,7 @@ export const Main = () => {
                             <img class="h-60 w-68 mb-10" src="images/cardsLayoutProject.PNG" alt="Shows image of cards layout website project" />
                         </div>
 
-                        <div class="flex flex-col justify-center max-w-xl ml-20">
+                        <div class="flex flex-col justify-center max-w-xl m-10">
                             <p>Project that shows knowledge of structuring HTML and designing with CSS.</p>
                             <p>Access the project on Github:</p>
                             <img class="h-32 w-32" src="images/iconGitHub.png" alt="Icon of GitHub which acts as link to project" />
@@ -47,7 +47,7 @@ export const Main = () => {
                             <img class="h-60 w-68 mb-10" src="images/TailwindDashboardProject.PNG" alt="Shows image of Tailwind website project" />
                         </div>
 
-                        <div class="flex flex-col justify-center max-w-xl ml-20">
+                        <div class="flex flex-col justify-center max-w-xl m-10">
                             <p>Project that shows knowledge of using CSS library Tailwind along with CSS flexbox design.
                                 his project focuses on mobile first design view.</p>
                             <p>Access the project on Github:</p>
@@ -64,7 +64,7 @@ export const Main = () => {
                             <img class="h-60 w-68 mb-10" src="images/JsValidation.PNG" alt="Shows image of Tailwind website project" />
                         </div>
 
-                        <div class="flex flex-col justify-center max-w-2xl ml-20">
+                        <div class="flex flex-col justify-center max-w-2xl m-10">
                             <p>Project that shows knowledge of JS form inputs and the appropriate validation required.
                                 Also uses event handlers to enable live validation as well as validation on form being submit.</p>
                             <p>Access the project on Github:</p>
